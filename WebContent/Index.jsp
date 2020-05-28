@@ -12,7 +12,7 @@
 	</header>
 	<article>이것은 본문입니다
 	</article>
-	<footer>이것은 푸터입니다
+	<footer>이것은 푸터입니다.
 	</footer>
 </body>
 </html>
